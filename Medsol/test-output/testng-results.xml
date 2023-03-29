@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-28T19:04:20 IST" name="Default suite" finished-at="2023-03-28T19:05:04 IST" duration-ms="44853">
+    <groups>
+    </groups>
+    <test started-at="2023-03-28T19:04:20 IST" name="Default test" finished-at="2023-03-28T19:05:04 IST" duration-ms="44853">
+      <class name="com.medsol.testcases.Documents">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.medsol.testcases.Documents@75d4a5c2]" started-at="2023-03-28T19:04:20 IST" name="setup" finished-at="2023-03-28T19:04:28 IST" duration-ms="8784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="creatingNewDocument()[pri:1, instance:com.medsol.testcases.Documents@75d4a5c2]" started-at="2023-03-28T19:04:28 IST" name="creatingNewDocument" finished-at="2023-03-28T19:05:04 IST" duration-ms="35473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatingNewDocument -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.medsol.testcases.Documents@75d4a5c2]" started-at="2023-03-28T19:05:04 IST" name="tearDown" finished-at="2023-03-28T19:05:04 IST" duration-ms="528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.medsol.testcases.Documents -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
